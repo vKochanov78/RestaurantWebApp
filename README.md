@@ -4,4 +4,4 @@ Complete responsive food / restaurant website design using HTML, CSS, and vanill
 
 Inspired by - [Mr. Web Designer](https://www.youtube.com/@MrWebDesignerAnas) <br />
 
-[Quick look of how it should looks like](https://www.youtube.com/watch?v=MJUssi2c6Ls) <br />
+[Quick look](https://www.youtube.com/watch?v=MJUssi2c6Ls) of how it should looks like<br />
