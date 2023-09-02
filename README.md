@@ -1,5 +1,5 @@
 # RestaurantWebApp
-This is warm-up for upcoming [JS Front-End Course](https://softuni.bg/modules/132/js-front-end-september-2023/1426) at SoftUni.<br />
+This is warm-up for upcoming [JS Front-End Course](https://softuni.bg/modules/132/js-front-end-september-2023/1426) at Software University.<br />
 
 ![image](https://user-images.githubusercontent.com/114246903/193458675-e27f99df-28b1-496b-9c5a-21e9c3e67402.png) <br />
 
