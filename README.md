@@ -1,4 +1,4 @@
-# RestaurantWebApp
+# RestaurantWebApp -> Project is paused for the moment.
 
 Front-End inspired by - [Mr. Web Designer](https://www.youtube.com/@MrWebDesignerAnas). <br />
 
